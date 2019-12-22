@@ -1,3 +1,6 @@
+# Runtime: 16 ms, faster than 99.95% of Python3 online submissions for Reverse Integer.
+# Memory Usage: 12.8 MB, less than 100.00% of Python3 online submissions for Reverse Integer.
+
 class Solution:
     def reverse(self, x: int) -> int:
         if x >= 0:
